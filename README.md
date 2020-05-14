@@ -30,3 +30,5 @@ https://www.fbi.gov/news/stories/two-from-syrian-electronic-army-added-to-cybers
 find court documents
 
 https://www.timesofisrael.com/topic/syrian-electronic-army/
+
+https://www.securitymagazine.com/articles/92158-lookout-research-nation-state-mobile-malware-targets-syrians-with-covid-19-lures
