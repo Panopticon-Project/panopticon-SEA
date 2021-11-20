@@ -32,3 +32,5 @@ find court documents
 https://www.timesofisrael.com/topic/syrian-electronic-army/
 
 https://www.securitymagazine.com/articles/92158-lookout-research-nation-state-mobile-malware-targets-syrians-with-covid-19-lures
+
+https://therecord.media/pakistani-hackers-operated-a-fake-app-store-to-target-former-afghan-officials/
